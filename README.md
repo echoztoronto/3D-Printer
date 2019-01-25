@@ -1,9 +1,8 @@
 # 3D-Printer
 a cost-effective 3d printer design
 
-course project of MIE243, University of Toronto
+team of 6 course project of MIE243, University of Toronto
 
-team of 6
 
 
 
