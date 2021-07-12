@@ -7,12 +7,12 @@ course project of MIE243, University of Toronto
 
 
 Candidate 1: Belt Design
-![alt text](111.jpg)
+![alt text](https://github.com/echoztoronto/3D-Printer/blob/image/1.jpg)
 
 
 
 Candidate 2: Delta Printer
-![alt text](222.jpg)
+![alt text](https://github.com/echoztoronto/3D-Printer/blob/image/2.jpg)
 
 
 
