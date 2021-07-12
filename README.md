@@ -1,9 +1,18 @@
 # 3D-Printer
 a cost-effective 3d printer design
 
-team of 6 course project of MIE243, University of Toronto
+team of 6 
+
+course project of MIE243, University of Toronto
 
 
+Candidate 1: Belt Design
+![alt text](111.jpg)
+
+
+
+Candidate 2: Delta Printer
+![alt text](222.jpg)
 
 
 
